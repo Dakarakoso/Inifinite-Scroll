@@ -29,6 +29,7 @@ https://dakarakoso.github.io/Inifinite-Scroll/
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+   <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -37,25 +38,30 @@ https://dakarakoso.github.io/Inifinite-Scroll/
 
 ## About The Project
 
-This is a random quote generator. In this project, I used an asynchronous fetch request to arrest API in order to get random quotes. Users can press the button "new quote" and get different quotes. They can also share the quote in Twitter by pressing the button on the left.
+In this project, the main idea was to give a "feeling" of infinitely scrolling. This functionality was built using Unsplash API. The images are dynamically loaded, giving the concept of scrolling forever. As the user gets closer to the bottom, it will automatically load more photos, giving a pleasant user experience.
 
 ### Built With
 
-- Html
-- CSS
-- JavaScript
-- [Unsplash](https://unsplash.com/documentation)
+* Html
+* CSS
+* JavaScript
+* [Unsplash](https://unsplash.com/documentation)
 
 ## Usage
 
 ![Infinite Scroll](https://github.com/Dakarakoso/Inifinite-Scroll/blob/main/images/usage.gif)
+
+## Roadmap
+<p align="center">
+<img src="images/Infinite+Scroll+Functionality.png" alt="roadmap">
+</p>
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com/Dakarakoso/Inifinite-Scroll)
+Project Link: [https://github.com/Dakarokoso/Infinite-Scroll](https://github.com/Dakarakoso/Inifinite-Scroll)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
