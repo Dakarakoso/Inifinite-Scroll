@@ -48,7 +48,7 @@ This is a random quote generator. In this project, I used an asynchronous fetch 
 
 ## Usage
 
-![Infinite Scroll](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+![Infinite Scroll](https://github.com/Dakarakoso/Inifinite-Scroll/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
