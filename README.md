@@ -14,7 +14,7 @@
 
 ### LIVE
 
-https://dakarakoso.github.io/Quote-Generator/
+https://dakarakoso.github.io/Inifinite-Scroll/
 
 <!-- TABLE OF CONTENTS -->
 
@@ -55,7 +55,7 @@ This is a random quote generator. In this project, I used an asynchronous fetch 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com/Dakarakoso/Quote-Generator)
+Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com/Dakarakoso/Inifinite-Scroll)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
